@@ -1,0 +1,29 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.container{
+	margin: auto;
+	width: 500px;
+}
+
+
+.text-center  {
+    margin-top: 20px;
+}
+#error{
+	padding-bottom: -10px;
+}
+
+button {
+    margin-top: 20px;
+}
+table {
+    margin-top: 30px;
+}
+.deleteBTN{
+	float: right;
+	outline: none;
+	border: none;
+	background-color: transparent;
+	margin-top: 0px;
+}
